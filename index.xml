@@ -7,7 +7,15 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>夫渔鸽BoziP</copyright>
-        <lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://fuyugebozip.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 01 Feb 2025 19:21:07 +0800</lastBuildDate><atom:link href="https://fuyugebozip.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>New</title>
+        <link>https://fuyugebozip.github.io/p/new/</link>
+        <pubDate>Sat, 01 Feb 2025 19:21:07 +0800</pubDate>
+        
+        <guid>https://fuyugebozip.github.io/p/new/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Chinese Test</title>
         <link>https://fuyugebozip.github.io/p/test-chinese/</link>
         <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
