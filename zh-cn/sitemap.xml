@@ -21,8 +21,13 @@
     <loc>https://fuyugebozip.github.io/post/</loc>
     <lastmod>2025-02-01T19:21:07+08:00</lastmod>
   </url><url>
+    <loc>https://fuyugebozip.github.io/archives/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fuyugebozip.github.io/page/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://fuyugebozip.github.io/categories/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -33,21 +38,6 @@
                 hreflang="zh-cn"
                 href="https://fuyugebozip.github.io/categories/"
                 />
-  </url><url>
-    <loc>https://fuyugebozip.github.io/p/test-chinese/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://fuyugebozip.github.io/categories/test/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://fuyugebozip.github.io/categories/%E6%B5%8B%E8%AF%95/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://fuyugebozip.github.io/archives/</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://fuyugebozip.github.io/page/</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://fuyugebozip.github.io/links/</loc>
   </url><url>
@@ -64,6 +54,8 @@
                 hreflang="zh-cn"
                 href="https://fuyugebozip.github.io/tags/"
                 />
+  </url><url>
+    <loc>https://fuyugebozip.github.io/categories/test/</loc>
   </url><url>
     <loc>https://fuyugebozip.github.io/%E5%85%B3%E4%BA%8E/</loc>
   </url>
