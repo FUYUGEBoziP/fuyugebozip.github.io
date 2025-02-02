@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
     <head>
-	<meta name="generator" content="Hugo 0.142.0"><meta charset='utf-8'>
+	<meta name="generator" content="Hugo 0.143.0"><meta charset='utf-8'>
 <meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content="Example description">
 <title>FUYUGEBoziP</title>
 
@@ -277,11 +277,22 @@
         document.head.appendChild(customFont);
     }());
 </script>
+<div id="particles-js"></div>
+
+<script src=https://fuyugebozip.github.io/background/particles.min.js></script>
+<script>
+  particlesJS.load('particles-js', "https://fuyugebozip.github.io/background/particlesjs-config.json", function() {
+    console.log('particles.js loaded - callback');
+  });
+</script>
+
 <style>
-  body {
-    background: url(https://fuyugebozip.github.io/background/luo.jpg) no-repeat center top;
-    background-size: cover;
-    background-attachment: fixed;
+  #particles-js {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: -1;
   }
 </style>
 

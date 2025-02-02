@@ -474,13 +474,11 @@
 <h4 id="blockquote-without-attribution">Blockquote without attribution
 </h4><blockquote>
 <p>Tiam, ad mint andaepu dandae nostion secatur sequo quae.
-<strong>Note</strong> that you can use <em>Markdown syntax</em> within a blockquote.</p>
-</blockquote>
+<strong>Note</strong> that you can use <em>Markdown syntax</em> within a blockquote.</p></blockquote>
 <h4 id="blockquote-with-attribution">Blockquote with attribution
 </h4><blockquote>
 <p>Don&rsquo;t communicate by sharing memory, share memory by communicating.<br>
-— <cite>Rob Pike<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup></cite></p>
-</blockquote>
+— <cite>Rob Pike<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup></cite></p></blockquote>
 <h2 id="tables">Tables
 </h2><p>Tables aren&rsquo;t part of the core Markdown spec, but Hugo supports supports them out-of-the-box.</p>
 <div class="table-wrapper"><table>
@@ -893,11 +891,22 @@
         document.head.appendChild(customFont);
     }());
 </script>
+<div id="particles-js"></div>
+
+<script src=https://fuyugebozip.github.io/background/particles.min.js></script>
+<script>
+  particlesJS.load('particles-js', "https://fuyugebozip.github.io/background/particlesjs-config.json", function() {
+    console.log('particles.js loaded - callback');
+  });
+</script>
+
 <style>
-  body {
-    background: url(https://fuyugebozip.github.io/background/luo.jpg) no-repeat center top;
-    background-size: cover;
-    background-attachment: fixed;
+  #particles-js {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: -1;
   }
 </style>
 
