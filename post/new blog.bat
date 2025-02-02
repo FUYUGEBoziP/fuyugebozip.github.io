@@ -1,0 +1,1 @@
+cmd /c "cd /d D:\website\fuyuge&&hugo new content/post/new/index.md"
